@@ -8,6 +8,7 @@ iteracji wewnątrz pętli if, pojawia się `\n - znak nowej linii`.
 - zad.4 - tablica z losowymi liczbami z `15 miejscami wewnątrz`, z przedziału `od 1 do 10` (każde odświeżenie strony 
 daje nowy zestaw liczb). Dodatkowo w konsoli otrzymujemy wynik pracy następnych pętli działających w kolejnej zmiennej, 
 które dają wynik `jakie i ile liczb się powtarza`.
+- zad.5 - tablica z losowymi liczbami, a z nich `średnia arytmetyczna` wyświetlona w konsoli.
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
