@@ -9,6 +9,8 @@ iteracji wewnątrz pętli if, pojawia się `\n - znak nowej linii`.
 daje nowy zestaw liczb). Dodatkowo w konsoli otrzymujemy wynik pracy następnych pętli działających w kolejnej zmiennej, 
 które dają wynik `jakie i ile liczb się powtarza`.
 - zad.5 - tablica z losowymi liczbami, a z nich `średnia arytmetyczna` wyświetlona w konsoli.
+- zad.6 - tablica z 10 losowo wygenerowanymi `przy pomocy Math.random()`liczbami, a w niej każda nieparzysta liczba 
+zamieniona w parzystą o jedną wartość wyżej.
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
