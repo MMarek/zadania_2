@@ -44,6 +44,7 @@ Funkcja zwraca następujące wartości:
 'Zły napiwek', gdy argument kwoty ma być pomnożony przez 0,
 'Opis nieczytelny', gdy żaden z powyższych opisów sie nie zgadza.
 ```
+zadanie zrealizowane na dwa sposoby instrukcją `IF oraz SWITCH`
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
