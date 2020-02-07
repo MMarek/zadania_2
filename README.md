@@ -12,6 +12,25 @@ które dają wynik `jakie i ile liczb się powtarza`.
 - zad.6 - tablica z 10 losowo wygenerowanymi `przy pomocy Math.random()`liczbami, a w niej każda nieparzysta liczba 
 zamieniona w parzystą o jedną wartość wyżej.
 - zad.7 - funkcja która zwraca w konsoli sumę liczb przekazanych jako `argument` do tejże funkcji.
+- zad.8 - fynkcja pobierająca liczbę jako argument, a z niej wyliczająca wedle wzoru niczym kalkulator mnożąc kolejne liczby: 
+```JavaScript 
+    liczba 1 = 200,
+    liczby 2 do 3 = 180,
+    liczby 4 do 7 = 160,
+    liczby 8 i więcej = 150,
+    dodatkowo:
+    co 7 liczb wartość liczbowa powinna 
+    być "niższa" o = 50.
+    tj. od 0 do 7 = 0,
+        od 7 do 14 = 50,
+        od 14 do 21 = 100 itd.
+```
+Przykład:
+```JavaScript
+wartość na wejściu -> 21
+wartość na wyjściu -> 3000
+```
+(w konsoli podane wartości następujących argumentów: 1, 3, 7, 12, 18, 21, 70)
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
