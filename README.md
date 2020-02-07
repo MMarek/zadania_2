@@ -46,6 +46,7 @@ Funkcja zwraca następujące wartości:
 ```
 zadanie zrealizowane na dwa sposoby instrukcją `IF oraz SWITCH`
 - zad.12 - funkcja, będąca tym samym grą w `Papier, Kamień, Nożyce`
+- zad.13 - funkcja zwracąjąca `drugą największą` liczbę z tablicy przyjętej jako `argument`.
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
