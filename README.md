@@ -32,7 +32,9 @@ wartość na wyjściu -> 3000
 ```
 (w konsoli podane wartości następujących argumentów: 1, 3, 7, 12, 18, 21, 70)
 
-- zad.9 - prosta funkcja wpisująca w konsoli 10x treść: `'JS is The Best'`
+- zad.9 - funkcja wpisująca w konsoli 10x treść: `'JS is The Best'`
+- zad.10 - funkcja `zwracająca najwyzszą z liczb`, podanych uwcześnie jako argument w tej funkcji. 
+Następnie wypisuje ją w konsoli.
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
