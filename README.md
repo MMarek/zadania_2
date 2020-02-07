@@ -1,4 +1,4 @@
-Kolejny zastaw zadań odświeżających pamięć, tutaj z działu `Pętle oraz Tablice`:
+Kolejny zastaw zadań odświeżających pamięć, tutaj z działu `Pętle, Tablice oraz Funkcje`:
 
 - zad.1 - program liczący `silnię` (napisany na dwa sposoby).
 - zad.2 - program `sumujący` wszystkie podane liczby w przedziale od x do y.
@@ -11,6 +11,7 @@ które dają wynik `jakie i ile liczb się powtarza`.
 - zad.5 - tablica z losowymi liczbami, a z nich `średnia arytmetyczna` wyświetlona w konsoli.
 - zad.6 - tablica z 10 losowo wygenerowanymi `przy pomocy Math.random()`liczbami, a w niej każda nieparzysta liczba 
 zamieniona w parzystą o jedną wartość wyżej.
+- zad.7 - funkcja która zwraca w konsoli sumę liczb przekazanych jako `argument` do tejże funkcji.
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
