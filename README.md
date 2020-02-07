@@ -35,6 +35,15 @@ wartość na wyjściu -> 3000
 - zad.9 - funkcja wpisująca w konsoli 10x treść: `'JS is The Best'`
 - zad.10 - funkcja `zwracająca najwyzszą z liczb`, podanych uwcześnie jako argument w tej funkcji. 
 Następnie wypisuje ją w konsoli.
+- zad.11 - funkcja która przyjmuje dwa argumenty, a z nich zwraca ustaloną wcześniej kwotę napiwku. 
+Funkcja zwraca następujące wartości:
+```JavaScript
+'Bardzo dobry napiwek', gdy argument kwoty ma być pomnożony przez 0.25,
+'Dobry napiwek', gdy argument kwoty ma być pomnożony przez 0.20,
+'Średni napiwek', gdy argument kwoty ma być pomnożony przez 0.15,
+'Zły napiwek', gdy argument kwoty ma być pomnożony przez 0,
+'Opis nieczytelny', gdy żaden z powyższych opisów sie nie zgadza.
+```
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
