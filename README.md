@@ -45,6 +45,7 @@ Funkcja zwraca następujące wartości:
 'Opis nieczytelny', gdy żaden z powyższych opisów sie nie zgadza.
 ```
 zadanie zrealizowane na dwa sposoby instrukcją `IF oraz SWITCH`
+- zad.12 - funkcja, będąca tym samym grą w `Papier, Kamień, Nożyce`
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html
