@@ -48,6 +48,7 @@ zadanie zrealizowane na dwa sposoby instrukcją `IF oraz SWITCH`
 - zad.12 - funkcja, będąca tym samym grą w `Papier, Kamień, Nożyce`
 - zad.13 - funkcja zwracąjąca `drugą największą` liczbę z tablicy przyjętej jako `argument`.
 - zad.14 - funkcja zwracająca tylko liczby `ujemne`.
+- zad.15 - funkcja zwracająca `wszystkie parzyste` liczby z zakresu od 0 do n, oraz `sumująca` je.
 #
 Sprawdź:
 https://mmarek.github.io/zadania_2/index.html

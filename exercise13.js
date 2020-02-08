@@ -1,6 +1,6 @@
 function getSecoundMaxNumber(arrayNumbers) {
     let firstMaxNumber = 0;
-    let SecoundMaxNumber = 0;
+    let secoundMaxNumber = 0;
 
     for (let i = 0; i < arrayNumbers.length; i++) {
         if (firstMaxNumber < arrayNumbers[i]) {
